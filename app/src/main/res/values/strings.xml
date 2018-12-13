@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">WhatToEat</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="restintro">The below restaurant is generated based on your answers before, and geared towards your
+        interests! Trust me, it is the best restaurant for you in Philly right now!
+    </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="where_to_eat_today">Where to eat today?</string>
+    <string name="answer_the_following_questions_and_you_can_find_out_exactly_where_you_want_to_eat">Answer the
+        following questions, and you can find out exactly where you want to eat.
+    </string>
+    <string name="how_much_time_do_you_have_for_this_meal">How much time do you have for this meal?</string>
+    <string name="_30_minutes">30 Minutes</string>
+    <string name="_60_minutes">60 Minutes</string>
+    <string name="not_in_a_hurry">Not in a hurry!</string>
+    <string name="price_range">Price Range?</string>
+    <string name="under_10">Under $10</string>
+    <string name="under_25">Under $25</string>
+    <string name="eat_fancy">Eat Fancy</string>
+    <string name="accept_foodtrucks">Accept Foodtrucks?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="how_are_you_feeling_right_now">How are you feeling right now?</string>
+    <string name="adventurous">Adventurous</string>
+    <string name="comfort_food">Comfort Food</string>
+    <string name="find_restaurants">Find Restaurants!</string>
+    <string name="try_this_restaurant">Try This Restaurant!!!</string>
+    <string name="sangkee">Sangkee</string>
+    <string name="cuisine_asian">Cuisine: Asian</string>
+    <string name="ratings_4_3_5">Ratings: 4.3/5</string>
+    <string name="description_word">Description Word</string>
+    <string name="reset_pref">Reset Pref</string>
+</resources>
